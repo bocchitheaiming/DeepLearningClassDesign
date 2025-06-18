@@ -1,0 +1,5 @@
+/task_1/data/*
+/task_2/data/*
+
+!/task_1/data/test
+!/task_2/data/test
