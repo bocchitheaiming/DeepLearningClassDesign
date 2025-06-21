@@ -1,5 +1,13 @@
 /task_1/data/*
+/task_1/model/*
 /task_2/data/*
+/task_2/model/*
+/task_3/data/*
+/task_3/model/*
+/task_4/data/*
+/task_4/model/*
 
 !/task_1/data/test
 !/task_2/data/test
+!/task_3/data/test
+!/task_4/data/test
